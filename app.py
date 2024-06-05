@@ -20,4 +20,3 @@ def add_task():
 if __name__ == "__main__":
     # Correct the syntax for the IP address and the debug flag
     app.run(host="0.0.0.0", port=5000, debug=True)
-
